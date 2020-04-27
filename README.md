@@ -1,5 +1,8 @@
 # Error-instalando-pycrypto
 inserte el comando pip install pycrypto y me marco esta serie de errores
+
+
+
  ERROR: Command errored out with exit status 1:
      command: 'c:\users\ingch\appdata\local\programs\python\python38\python.exe' -u -c 'import sys, setuptools, tokenize; sys.argv[0] = '"'"'C:\\Users\\ingch\\AppData\\Local\\Temp\\pip-install-ozqt9g7k\\pycrypto\\setup.py'"'"'; __file__='"'"'C:\\Users\\ingch\\AppData\\Local\\Temp\\pip-install-ozqt9g7k\\pycrypto\\setup.py'"'"';f=getattr(tokenize, '"'"'open'"'"', open)(__file__);code=f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(code, __file__, '"'"'exec'"'"'))' install --record 'C:\Users\ingch\AppData\Local\Temp\pip-record-853iz17q\install-record.txt' --single-version-externally-managed --compile --install-headers 'c:\users\ingch\appdata\local\programs\python\python38\Include\pycrypto'
          cwd: C:\Users\ingch\AppData\Local\Temp\pip-install-ozqt9g7k\pycrypto\
